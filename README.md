@@ -21,7 +21,3 @@ The front-end is minimal (HTML forms + tables) and used only for data input and 
 - **Late fee calculation** (extra feature)
 - Logging of all key actions
 
----
-
-## 🗂 Folder Structure
-
