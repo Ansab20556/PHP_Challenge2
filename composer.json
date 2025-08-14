@@ -1,0 +1,15 @@
+{
+    "name": "albahr/library-project",
+    "autoload": {
+        "psr-4": {
+            "Albahr\\LibraryProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ansab Naif",
+            "email": "ansab20556@gmail.com"
+        }
+    ],
+    "require": {}
+}
