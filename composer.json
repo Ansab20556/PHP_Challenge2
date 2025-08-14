@@ -2,7 +2,7 @@
     "name": "albahr/library-project",
     "autoload": {
         "psr-4": {
-            "Albahr\\LibraryProject\\": "src/"
+            "LibrarySystem\\": "src/"
         }
     },
     "authors": [
